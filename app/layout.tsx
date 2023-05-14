@@ -2,7 +2,7 @@ import "./globals.css";
 import { Inter } from "next/font/google";
 
 export const metadata = {
-  title: "Yume - Amir DIB",
+  title: "Yume 夢",
   description:
     "A mini app of a compact carousel imbued with a minimalist Japanese aesthetic.",
 };
